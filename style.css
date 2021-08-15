@@ -1,0 +1,79 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.new-btn {
+  background-color: #e76f51;
+  border-color: #e76f51;
+}
+.orange-color {
+  color: #e76f51;
+}
+
+/* header  */
+
+header {
+  background-color: #264653;
+  color: #fff;
+}
+.small-font {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+/* main section  */
+
+/* featured   */
+
+main .featured .gray-scle-img {
+  filter: grayscale(100%);
+}
+/* news section   */
+
+.news .card {
+  border: none;
+}
+.outline-btn {
+  background-color: none;
+  border: 1px solid #e76f51;
+  color: #e76f51;
+  font-weight: bold;
+}
+.outline-btn:hover {
+  border: 1px solid #000;
+  color: #000;
+  font-weight: bold;
+}
+
+/* Frequently Asked Questions */
+.ask-question-content {
+  padding: 100px 0;
+}
+.collaps-text-custome {
+  font-size: 16px;
+  font-weight: normal;
+  text-align: left;
+}
+.question-btn {
+  width: 100%;
+  text-align: left;
+  font-size: 20px;
+}
+
+.subscribe .form-control {
+  display: inline;
+}
+
+footer {
+  background-color: #0b0d17;
+}
+.footer-top p {
+  color: #fff;
+  margin-right: 40px;
+}
+.footer-link a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+  font-weight: normal;
+}
